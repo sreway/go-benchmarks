@@ -9,7 +9,7 @@ go test -bench=BenchmarkWithoutPool
 
 goos: linux
 goarch: amd64
-pkg: rebrain/module05/pool
+pkg: go-benchmarks
 cpu: Intel(R) Core(TM) i3-6006U CPU @ 2.00GHz
 BenchmarkWithoutPool-4   	     315	   4368705 ns/op
 PASS
